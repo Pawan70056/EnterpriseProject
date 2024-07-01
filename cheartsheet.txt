@@ -1,0 +1,9 @@
+pwd - to show the path of your location
+ls - List out the Directory 
+cd <Directory name> - to change the Directory
+cd .. - to return one steps back
+cd - to return Home Directory
+mkdir <Directory name>  - to create Directory
+touch <file name> - to create file
+rm -rf <file/Directory name> - to remove/delete 
+ping <website name> - to check the network its working or not
